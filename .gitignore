@@ -1,0 +1,4 @@
+.env
+score_pro.db
+__pycache__/
+venv/
